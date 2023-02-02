@@ -28,6 +28,10 @@ div {
     clear: both;
 }
 
+section {
+    margin-bottom: 10px;
+}
+
 h1 {
     color: rgb(175, 72, 158);
     margin-bottom: 1em;
@@ -48,6 +52,7 @@ h3 {
     width: calc(100% / 3 - 40px / 3);
     float: left;
     padding: 20px;
+    margin-bottom: 20px;
 }
 
 .col.middle {
@@ -57,4 +62,9 @@ h3 {
 img {
     max-width: 100%;
     margin-bottom: 1em;
+}
+
+.card {
+    background-color: rgb(219, 181, 144);
+    color: rgb(14, 29, 25);
 }
