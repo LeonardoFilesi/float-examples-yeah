@@ -4,8 +4,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: rgb(33, 22, 73);
-    color: rgb(207, 83, 52);
+    background-color: rgb(31, 50, 71);
+    color: white;
 }
 
 body [
@@ -30,6 +30,12 @@ div {
 
 h1 {
     color: rgb(175, 72, 158);
+    margin-bottom: 1em;
+}
+
+h3 {
+    color: orange;
+    margin-bottom: 1em;
 }
 
 .row {
@@ -50,4 +56,5 @@ h1 {
 
 img {
     max-width: 100%;
+    margin-bottom: 1em;
 }
